@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItems>
+	<assessmentItem subject="Web" author="jvadillo001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Tag HTML para añadir un formulario</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				FORM
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value> OBJECT </value>
+			<value> TABLE </value>
+			<value> DIV </value>
+		</incorrectResponses>
+	</assessmentItem>
+		<assessmentItem subject="Internet" author="rarruabarrena001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Este protocolo acabará funcionando
+			incluso entre dos latas unidas por un cordón</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				TCP/IP
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value> HTTP </value>
+			<value> SMTP </value>
+			<value> Ninguna es correcta </value>
+		</incorrectResponses>
+	</assessmentItem>
+<assessmentItem subject="vvv" author="agarcia@ehu.es"><itemBody><p>vvvvvvvvvvvvvvvvvvvvv</p></itemBody><correctResponse><value>v</value></correctResponse><incorrectResponses><value>n</value><value>m</value><value>b</value></incorrectResponses></assessmentItem><assessmentItem subject="XML" author="agarcia@ehu.es"><itemBody><p>ultima prueba de xml</p></itemBody><correctResponse><value>funciona</value></correctResponse><incorrectResponses><value>no</value><value>no</value><value>no</value></incorrectResponses></assessmentItem><assessmentItem subject="rrr" author="pepe@ehu.es"><itemBody><p>rrrrrrrrrrrrrrrrrrrrrr</p></itemBody><correctResponse><value>rrrrrrrrrrr</value></correctResponse><incorrectResponses><value>rrrrrrrrrrrrrrrrrrr</value><value>r</value><value>r</value></incorrectResponses></assessmentItem><assessmentItem subject="afffafa" author="pepe@ehu.es"><itemBody><p>afafafafaafa</p></itemBody><correctResponse><value>fafafa</value></correctResponse><incorrectResponses><value>afafaf</value><value>fafa</value><value>afaf</value></incorrectResponses></assessmentItem><assessmentItem subject="pepepepepe" author="pepe@ehu.es"><itemBody><p>pepepepepepepe</p></itemBody><correctResponse><value>pepe</value></correctResponse><incorrectResponses><value>epeep</value><value>eepee</value><value>epepe</value></incorrectResponses></assessmentItem><assessmentItem subject="g43hgjk34h3443hki4g3" author="ggaldos717@ikasle.ehu.eus"><itemBody><p>fejfgoierjferg</p></itemBody><correctResponse><value>gergnkjerg</value></correctResponse><incorrectResponses><value>gn4hgj4gj3</value><value>g43hjkggb34kjn34</value><value>g4h43j3b4jk43nj43</value></incorrectResponses></assessmentItem><assessmentItem subject="prueba" author="ggaldos002@ikasle.ehu.eus"><itemBody><p>prueba1 funciona</p></itemBody><correctResponse><value>si</value></correctResponse><incorrectResponses><value>no</value><value>ni de coña</value><value>bandoleiro</value></incorrectResponses></assessmentItem><assessmentItem subject="prueba" author="ggaldos002@ikasle.ehu.eus"><itemBody><p>funciona esta mierda 2</p></itemBody><correctResponse><value>si</value></correctResponse><incorrectResponses><value>no</value><value>ni de coña</value><value>bandoleiro</value></incorrectResponses></assessmentItem><assessmentItem subject="a j a x" author="agarcia@ehu.es"><itemBody><p>ajaxxxxxxxxxxxxxxxxx</p></itemBody><correctResponse><value>ajax</value></correctResponse><incorrectResponses><value>aja</value><value>axaj</value><value>aajx</value></incorrectResponses></assessmentItem><assessmentItem subject="saludo" author="agarcia717@ikasle.ehu.eus"><itemBody><p>holaaaaaaaaaaaaaaaaaaa</p></itemBody><correctResponse><value>h</value></correctResponse><incorrectResponses><value>o</value><value>l</value><value>a</value></incorrectResponses></assessmentItem><assessmentItem subject="sssss" author="agarcia717@ikasle.ehu.eus"><itemBody><p>sssssssssssssssssssssss</p></itemBody><correctResponse><value>sssssss</value></correctResponse><incorrectResponses><value>ss</value><value>ss</value><value>s</value></incorrectResponses></assessmentItem><assessmentItem subject="ffffff" author="agarcia717@ikasle.ehu.eus"><itemBody><p>fffffffffffffffffff</p></itemBody><correctResponse><value>ffff</value></correctResponse><incorrectResponses><value>fffff</value><value>ff</value><value>ff</value></incorrectResponses></assessmentItem><assessmentItem subject="Nombre" author="agarcia717@ikasle.ehu.eus"><itemBody><p>¿Como me llamo</p></itemBody><correctResponse><value>Juan</value></correctResponse><incorrectResponses><value>Juana</value><value>Jara</value><value>Jantonia</value></incorrectResponses></assessmentItem><assessmentItem subject="qweqe" author="agarcia717@ikasle.ehu.eus"><itemBody><p>qwertyuiopa</p></itemBody><correctResponse><value>asdas</value></correctResponse><incorrectResponses><value>asdasd</value><value>qwe</value><value>asd</value></incorrectResponses></assessmentItem><assessmentItem subject="qweqe" author="agarcia717@ikasle.ehu.eus"><itemBody><p>qwertyuiopa</p></itemBody><correctResponse><value>asdas</value></correctResponse><incorrectResponses><value>asdasd</value><value>qwe</value><value>asd</value></incorrectResponses></assessmentItem><assessmentItem subject="qweqe" author="agarcia717@ikasle.ehu.eus"><itemBody><p>qwertyuiopa</p></itemBody><correctResponse><value>asdas</value></correctResponse><incorrectResponses><value>asdasd</value><value>qwe</value><value>asd</value></incorrectResponses></assessmentItem></assessmentItems>
